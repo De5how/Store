@@ -1,0 +1,15 @@
+C:\Users\Deshow\source\repos\HardwareShop\HardwareShop\bin\Debug\HardwareShop.exe.config
+C:\Users\Deshow\source\repos\HardwareShop\HardwareShop\bin\Debug\HardwareShop.exe
+C:\Users\Deshow\source\repos\HardwareShop\HardwareShop\bin\Debug\HardwareShop.pdb
+C:\Users\Deshow\source\repos\HardwareShop\HardwareShop\obj\Debug\HardwareShop.Form1.resources
+C:\Users\Deshow\source\repos\HardwareShop\HardwareShop\obj\Debug\HardwareShop.Properties.Resources.resources
+C:\Users\Deshow\source\repos\HardwareShop\HardwareShop\obj\Debug\HardwareShop.csproj.GenerateResource.cache
+C:\Users\Deshow\source\repos\HardwareShop\HardwareShop\obj\Debug\HardwareShop.csproj.CoreCompileInputs.cache
+C:\Users\Deshow\source\repos\HardwareShop\HardwareShop\obj\Debug\HardwareShop.exe
+C:\Users\Deshow\source\repos\HardwareShop\HardwareShop\obj\Debug\HardwareShop.pdb
+C:\Users\Deshow\source\repos\HardwareShop\HardwareShop\obj\Debug\HardwareShop.Form2.resources
+C:\Users\Deshow\source\repos\HardwareShop\HardwareShop\obj\Debug\HardwareShop.Form3.resources
+C:\Users\Deshow\source\repos\HardwareShop\HardwareShop\obj\Debug\HardwareShop.Form4.resources
+C:\Users\Deshow\source\repos\HardwareShop\HardwareShop\obj\Debug\HardwareShop.Form5.resources
+C:\Users\Deshow\source\repos\HardwareShop\HardwareShop\obj\Debug\HardwareShop.Form6.resources
+C:\Users\Deshow\source\repos\HardwareShop\HardwareShop\obj\Debug\HardwareShop.csprojAssemblyReference.cache
